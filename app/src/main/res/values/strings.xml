@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Custom Array ListView</string>
+    <string-array name="countryNames">
+
+        <item>Bangaldesh</item>
+        <item>Afganis</item>
+        <item>Inda</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>SriLanka</item>
+        <item>Usa</item>
+        <item>UK</item>
+        <item>Canada</item>
+        <item>Holan</item>
+        <item>Swizarlan</item>
+        <item>Morokko</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Koria</item>
+        <item>Russia</item>
+        <item>Singapur</item>
+        <item>Aaudi Arabia</item>
+        <item>Poland</item>
+
+
+
+    </string-array>
+</resources>
